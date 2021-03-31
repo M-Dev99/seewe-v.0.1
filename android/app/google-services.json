@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381871419769",
+    "project_id": "see-we-b3218",
+    "storage_bucket": "see-we-b3218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381871419769:android:22c9080f16b46b07863fa8",
+        "android_client_info": {
+          "package_name": "com.proapps.seewe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381871419769-4lgieuv285950d1v6krc1379elu2s2i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proapps.seewe",
+            "certificate_hash": "5b2fee6e0c1a38016e394c83e3dfdc49d41bb6fa"
+          }
+        },
+        {
+          "client_id": "381871419769-r99prrn6b1v6hn6k7hc56hfq1c90jkfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjf50XDi3PgaI_Ti8preSxgigbIrPLMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381871419769-r99prrn6b1v6hn6k7hc56hfq1c90jkfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
